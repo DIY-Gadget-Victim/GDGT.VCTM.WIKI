@@ -8,12 +8,12 @@ This is my personal digital garden—a collection of my notes, projects, guides,
 
 Browse by category to find what you're looking for.
 
-* ### [Programming & Tech](Tech/)
-    > Notes on code, frameworks, command-line tools, and system administration.
+* ### [Tech](Tech/)
+    > Various Software and Hardware Resources
 ---
 
 ## ⚡ Quick Links
 
 Or jump straight to a specific, frequently used page:
 
-* [My Standard Server Setup](Tech/Touch-Designer-Cheat-Sheet.md)
+* [Touch Designer Cheat Sheet](Tech/Touch-Designer-Cheat-Sheet.md)
